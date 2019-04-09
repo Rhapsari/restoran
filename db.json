@@ -1,0 +1,656 @@
+{
+ "restoran" : [
+        {
+            "nama_restoran":"McDonald's (Kaliurang)",
+            "id_restoran" : "1",
+            "lokasi": {
+                "alamat":"Jalan Kaliurang Km. 5.5, Kocoran, Caturtunggal, Depok, Sleman Regency, Special Region of Yogyakarta ",
+                "kota"  :" kab.Sleman",
+                "latitude": "-7.7625199",
+                "longitude": "110.3774708",
+                "kode_pos": "5528"
+
+            },
+            "kategori":"restoran cepat saji",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"Pizza Hut Jakal",
+            "id_restoran" : "2",
+            "lokasi": {
+                "alamat":"Jalan Kaliurang No.KM 5.6, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+                "kota"  :"kab.Sleman",
+                "latitude": "-7.7567493",
+                "longitude": "110.3801261",
+                "kode_pos": "55281"
+
+            },
+            "kategori":"restoran pizza",
+            "photo_profile":"pizzahut.jpg"
+        },
+        {
+            "nama_restoran":"Jogja Scrummy Outlet Kaliurang",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Ruko Cakra Kembang, Jl. Kaliurang KM. 5,5 No. 44, Condongcatur, Depok, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+                "kota"  :"kab.Sleman",
+                "latitude": "-7.758836",
+                "longitude": "110.380976",
+                "kode_pos": " 55281"
+
+            },
+            "kategori":"toko kue",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"Tempo Del Gelato",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jalan Kaliurang KM. 5,2 No. 28, Caturtunggal, Depok, Kecamatan Depok, Karang Wuni, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+                "kota"  :"kab.Sleman",
+                "latitude": "-7.7588418",
+                "longitude": "110.3810404",
+                "kode_pos": " 55153"
+
+            },
+            "kategori":"toko ice cream",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"Dunkin' Donuts Kaliurang",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jalan Kaliurang KM.5,5 No.36, Caturtunggal, Depok, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+                "kota"  :"kab.Sleman",
+                "latitude": "-7.7586266",
+                "longitude": "110.3800176",
+                "kode_pos": " 55284"
+
+            },
+            "kategori":"toko donat",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"Parsley Bakery & Resto Jakal",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jl. Kaliurang No.KM.5, Karang Wuni, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+                "kota"  :"kab. Sleman",
+                "latitude": "-7.7586266",
+                "longitude": "110.3800176",
+                "kode_pos": " 55281"
+
+            },
+            "kategori":"toko kue",
+            "photo_profile":""
+        }
+        ,
+        {
+            "nama_restoran":"Rumah Makan Padang Sederhana",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jl. Kaliurang KM 5.6, Caturtunggal, Depok, Kecamatan Depok, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+                "kota"  :"kab. Sleman",
+                "latitude": "-7.756542",
+                "longitude": "110.3813061",
+                "kode_pos": "55281 "
+
+            },
+            "kategori":"restoran padang",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"KALIMILK Jogja",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jl. Kaliurang KM. 4.9, Caturtunggal, Depok, Kecamatan Depok, Kocoran, Caturtunggal, Kec. Depok, Kabupaten Sleman",
+                "kota"  :"kab. Sleman",
+                "latitude": "-7.7618396",
+                "longitude": "110.37812",
+                "kode_pos": "55281 "
+
+            },
+            "kategori":"cafe",
+            "photo_profile":""
+        },
+        {
+            "nama_restoran":"Mie Ayam Palembang Afui",
+            "id_restoran" : "",
+            "lokasi": {
+                "alamat":"Jl. Kaliurang KM 4.5, Gang Kinanti No.12, Caturtunggal, Kecamatan Depok, Kocoran, Caturtunggal, Kec. Depok, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+                "kota"  :"kab. Sleman",
+                "latitude": "-7.7628275",
+                "longitude": "110.3781553",
+                "kode_pos": "55281 "
+
+            },
+            "kategori":"restoran mie",
+            "photo_profile":""
+        },
+{
+nama_restoran: "Madam Tan Indonesian Food",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. C. Simanjuntak No.78 A, Terban, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+kota: "kab. Sleman",
+latitude: "-7.775345",
+longitude: "110.3745994",
+kode_pos: "55281",
+},
+kategori: "restoran indonesia",
+photo_profile: "",
+},
+{
+nama_restoran: "Bika Ambon Larizo",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. C. Simanjuntak No.80A, Blimbing Sari, Terban, Gondokusuman, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+kota: "kab. Sleman",
+latitude: "-7.774313",
+longitude: "110.3746529",
+kode_pos: "55223 ",
+},
+kategori: "toko kue",
+photo_profile: "",
+},
+{
+nama_restoran: "FOOD COURT PLAZA CAMPUS",
+id_restoran: "",
+lokasi: {
+alamat: "Blimbing Sari, Caturtunggal, Depok Sub-District, Sleman Regency, Special Region of Yogyakarta",
+kota: "kab. Sleman",
+latitude: "-7.7740988",
+longitude: "110.3747739",
+kode_pos: "55281 ",
+},
+kategori: "food court",
+photo_profile: "",
+},
+{
+nama_restoran: "monalisa burger",
+id_restoran: "",
+lokasi: {
+alamat: "Senolowo, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7724453",
+longitude: "110.3755799",
+kode_pos: "55281",
+},
+kategori: "restoran cepat saji",
+photo_profile: "",
+},
+{
+nama_restoran: "Sate padang Chaniago",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Persatuan No.40-3, Senolowo, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+kota: "kab. Sleman",
+latitude: "-7.7723353",
+longitude: "110.375745",
+kode_pos: "55281",
+},
+kategori: "restoran sate",
+photo_profile: "",
+},
+{
+nama_restoran: "Nasi Kulit Syuurga",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Persatuan,Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 5528, Senolowo, Sinduadi, Mlati, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7711605",
+longitude: "110.3765619",
+kode_pos: "55281",
+},
+kategori: "restoran ayam",
+photo_profile: "",
+},
+{
+nama_restoran: "Waroeng Spesial Sambal 'SS' 01 Perjuangan",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Kaliurang KM. 3 Barat Graha Saha Pramana UGM Mlati, Senolowo, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7711605",
+longitude: "110.3765619",
+kode_pos: "55582",
+},
+kategori: "restoran indonesia",
+photo_profile: "",
+},
+{
+nama_restoran: "Blackbone Coffee",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Kaliurang Km. 5, Gg. Sitisonyo No.88, Kocoran, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7626665",
+longitude: "110.3777155",
+kode_pos: "55281",
+},
+kategori: "cafe",
+photo_profile: "",
+},
+{
+nama_restoran: "Yamie Panda Megatruh",
+id_restoran: "",
+lokasi: {
+alamat: "Jalan Kaliurang KM. 4.5 Gang Megatruh No. 18, Caturtunggal, Depok, Karang Wuni, Caturtunggal, Kec. Depok, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7626665",
+longitude: "10.3777155",
+kode_pos: "55281",
+},
+kategori: "",
+photo_profile: "",
+},
+{
+nama_restoran: "Lantai Bumi Coffee & Space",
+id_restoran: "",
+lokasi: {
+alamat: "Sinduadi, Pogung Kidul, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7607138",
+longitude: "110.3770996",
+kode_pos: "55284",
+},
+kategori: "cafe",
+photo_profile: "",
+},
+{
+nama_restoran: "Ayam Geprek & Susu (Preksu) Pandega",
+id_restoran: "",
+lokasi: {
+alamat: "Jalan Pandega Marta, Jl. Pogung Kidul No.181, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7564283",
+longitude: "110.3717904",
+kode_pos: "55281",
+},
+kategori: "restoran ayam",
+photo_profile: "",
+},
+{
+nama_restoran: "Krisbar Susi",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Pandega Marta No.167A, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7583507",
+longitude: "110.371741",
+kode_pos: "55284",
+},
+kategori: "retoran ayam",
+photo_profile: "",
+},
+{
+nama_restoran: "Waroeng SS",
+id_restoran: "",
+lokasi: {
+alamat: "Jalan Pandega Marta No.532 D RW.49, Pogung Lor, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7573737",
+longitude: "110.3735202",
+kode_pos: "55281",
+},
+kategori: "restoran indonesia",
+photo_profile: "",
+},
+{
+nama_restoran: "Rischoco Land",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Pandega Marta No.106, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7565878",
+longitude: "110.3739917",
+kode_pos: "55284",
+},
+kategori: "snack jajanan",
+photo_profile: "",
+},
+{
+nama_restoran: "SBC Spesial Cah Kangkung",
+id_restoran: "",
+lokasi: {
+alamat: "Jalan Pandega Marta, Jl. Pogung Kidul No.102A, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7574055",
+longitude: "110.3728342",
+kode_pos: "55281",
+},
+kategori: "retoran indonesia",
+photo_profile: "",
+},
+{
+nama_restoran: "Karunia Snack",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Pandega Marta, Pogung Kidul, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7574055",
+longitude: "110.3728342",
+kode_pos: "55281",
+},
+kategori: "snack jajanan",
+photo_profile: "",
+},
+{
+nama_restoran: "Soto Ijo Monjal",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Tirta Marta, Gemangan, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7576816",
+longitude: "110.370487",
+kode_pos: "55284",
+},
+kategori: "berkuah",
+photo_profile: "",
+},
+{
+nama_restoran: "Pia Pia Jogja",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Kaliurang Km. 5,5, Gang Jeruk No.1, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7574586",
+longitude: "110.3773143",
+kode_pos: "55582",
+},
+kategori: "khas jogja",
+photo_profile: "",
+},
+{
+nama_restoran: "Waroeng Steak and Shake Pandega Karya",
+id_restoran: "",
+lokasi: {
+alamat: "Jalan Kaliurang Km. 5,6, Gang Pandega Karya No.18A, Caturtunggal, Depok, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7583613",
+longitude: "110.3809585",
+kode_pos: "55281",
+},
+kategori: "retoran weastren",
+photo_profile: "",
+},
+{
+nama_restoran: "Iga Bakar Jakal",
+id_restoran: "",
+lokasi: {
+alamat: "Kaliurang Street, Manggung, Caturtunggal, Depok Sub-District, Sleman Regency, Special Region of Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7583613",
+longitude: "110.3809585",
+kode_pos: "55281",
+},
+kategori: "restoran weastren",
+photo_profile: "",
+},
+{
+nama_restoran: "Soto Ayam Dan Soto Sapi Pak Nanto",
+id_restoran: "",
+lokasi: {
+alamat: "Karang Wuni, Caturtunggal, Depok Sub-District, Sleman Regency, Special Region of Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7619402",
+longitude: "110.3822875",
+kode_pos: "55281",
+},
+kategori: "berkuah",
+photo_profile: "",
+},
+{
+nama_restoran: "Gudeg Bu Hj. Amad",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Kaliurang KM. 4.5, Blok CT3 No. 5, Caturtunggal, Kecamatan Depok, Kocoran, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7658058",
+longitude: "110.3794365",
+kode_pos: "55281",
+},
+kategori: "khas jogja",
+photo_profile: "",
+},
+{
+nama_restoran: "KFC UGM Yogyakarta",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. C. Simanjuntak No.72A, Terban, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7757699",
+longitude: "110.3702037",
+kode_pos: "55221",
+},
+kategori: "restoran cepat saji",
+photo_profile: "",
+},
+{
+nama_restoran: "Coklat Cafe",
+id_restoran: "",
+lokasi: {
+alamat: "Jl. Cik Di Tiro No.19, Terban, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+kota: "kab. Sleman",
+latitude: "-7.7775413",
+longitude: "110.3705789",
+kode_pos: "55223",
+},
+kategori: "cafe",
+photo_profile: "",
+},
+{
+	"nama_api" : "Mahdojan Restoran API",
+	"author" : "Risang Nihapsari P",
+ 	"restoran" : [
+ 		{
+	"nama_resto":"Sushi Tei",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Komplek Colombo,Jl.Affandi No.9,Mrican,Caturtunggal,Kec.Depok,Kabupaten Sleman,Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.778891",
+		"longitude": "110.388671",
+		"kode_pos" : "55222",
+	},
+	"kategori" : "restoran cepat saji",
+	"photo_profile" : "", 
+	},
+	{
+	"nama_resto":"ChaCha Milk Tea",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Komp. Colombo Jl. Affandi No.1, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.778999",
+		"longitude": "110.388626",
+		"kode_pos" : "55222",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "", 
+	},
+	{
+	"nama_resto":"Poki Doki Korean Street Food",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi, Jl. Stm.Mrican No.20, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+		"kota" : "Sleman",
+		"latitude" : "-7.778523",
+		"longitude": "110.388599",
+		"kode_pos" : "55281",
+	},
+	"kategori" : "restoran korea",
+	"photo_profile" : "", 
+	},
+	{
+	"nama_resto":"Kedai Zapiekanka",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.31, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta  ",
+		"kota" : "Sleman",
+		"latitude" : "-7.778479",
+		"longitude": "110.388622",
+		"kode_pos" : "55281",
+	},
+	"kategori" : "restoran polandia",
+	"photo_profile" : "", 
+		
+	},
+	{
+	"nama_resto":"Wedangan Tubruk",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Komp. Colombo, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",
+		"kota" : "Sleman",
+		"latitude" : "-7.778432",
+		"longitude": "110.389257",
+		"kode_pos" : "55281",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "", 
+		
+	},
+	{
+	"nama_resto":"Wedangan Tekko",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "No. 1 B, Jl. Affandi, Karang Gayam, Caturtunggal, Kec. Depok, Yogyakarta, Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.763709",
+		"longitude": "110.393665",
+		"kode_pos" : "55281",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "", 
+		
+
+	
+	},
+	{
+	"nama_resto":"Panties Pizza Gejayan",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "CTX No.18A, Jalan Affandi, Caturtunggal, Kecamatan Depok, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.764001",
+		"longitude": "110.393501",
+		"kode_pos" : "55281",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "", 
+		
+	},
+	{
+	"nama_resto":"Unique Coffe & Galerry",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.2, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",	
+		"kota" : "Sleman",
+		"latitude" : "-7.763901",
+		"longitude": "110.393543",
+		"kode_pos" : "55283",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "", 
+	},
+	{
+	"nama_resto":"Waroeng Steak and Shake",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jalan Gejayan, Catur Tunggal, Kecamatan Depok, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.764712",
+		"longitude": "110.392948",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "restoran",
+	"photo_profile" : "",
+	},
+	{
+	"nama_resto":"Blackbone Coffee Garage",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi, Karang Gayam, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",	
+		"kota" : "Sleman",
+		"latitude" : "-7.764778",
+		"longitude": "110.392850",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "",
+		
+	},
+	{
+	"nama_resto":"Dixie Jogjakarta",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.40B, Santren, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",	
+		"kota" : "Sleman",
+		"latitude" : "-7.769964",
+		"longitude": "110.390681",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "cafe",
+	"photo_profile" : "",
+	},
+
+
+
+{
+	"nama_resto":"Swiss House Bakery",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.38, Santren, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta ",	
+		"kota" : "Sleman",
+		"latitude" : "-7.770265",
+		"longitude": "110.390438",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "toko kue",
+	"photo_profile" : "",
+},
+{
+	"nama_resto":"Ciao Gelato",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.7, Santren, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+		"kota" : "Sleman",
+		"latitude" : "-7.773520",
+		"longitude": "110.389280",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "toko eskrim",
+	"photo_profile" : "",
+	},
+	{ 
+	"nama_resto":"Kenes Bakery & Resto",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.15, Santren, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",	
+		"kota" : "Sleman",
+		"latitude" : "-7.760963",
+		"longitude" : "110.394403",
+		"kode_pos" : " 55281",
+	},
+	"kategori" : "toko kue",
+	"photo_profile" : "",
+
+	},
+	{
+		"nama_resto":"Sushi Story",
+	"id_restoran":1,
+	"lokasi" : {
+		"alamat" : "Jl. Affandi No.37, Soropadan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283",
+		"kota" : "Sleman",
+		"latitude" : "-7.760833",
+		"longitude" : "110.394455",
+		"kode_pos" : "55283",
+	},
+	"kategori" : "restoran jepang",
+	"photo_profile" : "",
+	}]
+  }
+
+
+
+
